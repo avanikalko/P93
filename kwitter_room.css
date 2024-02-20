@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(rgb(66, 66, 255), rgb(186, 58, 255), rgb(255, 131, 253));
+    height: 100vh;
+}
+
+#addRoomBtn{
+    border-radius: 10px;
+    font-size: 20px;
+    background: linear-gradient(red, blue);
+    color: white;
+}
+
+#addRoomBtn:hover{
+    background: linear-gradient(rgb(142, 0, 0), rgb(0, 0, 130));
+    transform: scale(1.1);
+}
